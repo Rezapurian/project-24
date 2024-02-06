@@ -26,6 +26,7 @@ nav {
   height: 70px;
   background: #063247;
   box-shadow: 0 3px 15px rgba(0, 0, 0, 0.4);
+  position: fixed;
 }
 nav ul {
   float: right;
